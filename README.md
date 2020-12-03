@@ -10,7 +10,7 @@ LED_driver
 ・LEDを3個使用し入力された値に応じて、二進数の0~7までを点灯の切り替えにより表現します。
 
 
-#Demo
+# Demo
 
 
 デモムービーはこちらのURLからご覧ください。https://youtu.be/1kebJaBuN5U
